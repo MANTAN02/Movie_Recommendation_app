@@ -1,4 +1,4 @@
-This project is a movie recommendation system that leverages user demographics (age and gender) to provide personalized movie suggestions. It's implemented in TypeScript and uses several data science principles to generate relevant recommendations.
+This project is a movie recommendation system that leverages user demographics (age and gender) to provide personalized movie suggestions. It uses several data science principles to generate relevant recommendations.
 Data Science Concepts Used
 
 Demographic Filtering:
